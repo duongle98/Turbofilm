@@ -12,7 +12,7 @@
 ### This work is broken into 3 microservices
 
 - Web app (including front-end and backend )
-- Mediaextractor service (extracting direct video sources from sites): https://github.com/duongle98/MovieSites-MediaExtractor
+- Mediaextractor service (extracting direct video sources from sites): https://github.com/duongle98/MediaExtractor
 - MovieCrawler && search (Crawling movie links): https://github.com/duongle98/MovieCrawler
 
 # Demo:
